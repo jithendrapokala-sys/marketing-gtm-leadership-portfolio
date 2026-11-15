@@ -36,6 +36,6 @@ Demonstrating how strategic marketing, technology, data and AI can contribute to
 
 ## Contact
 
-LinkedIn: [Add your LinkedIn URL]
+LinkedIn: [https://www.linkedin.com/in/jeetu-pokala-6b658313/]
 
-Email: [Add your professional email]
+Email: jithendra.pokala@gmail.com
