@@ -1,0 +1,9 @@
+lead_id,company,industry,employees,region,title,email_opens,page_visits,pricing_page_visit,content_downloads,webinar_attended,demo_requested,days_since_last_activity
+L001,Northfield Health System,Healthcare,4200,North America,Chief Information Officer,6,9,yes,2,yes,yes,2
+L002,Crescent Mutual Bank,BFSI,2600,EMEA,VP Digital Transformation,4,5,no,1,yes,no,6
+L003,Apex Auto Components,Automotive,850,APAC,Marketing Manager,2,3,no,1,no,no,20
+L004,Brightline Retail,Retail,12000,North America,Director of Operations,5,7,yes,3,no,no,4
+L005,Student Freelancer,Other,1,APAC,Student,8,12,no,4,yes,no,1
+L006,Harbor Manufacturing,Manufacturing,300,EMEA,IT Lead,1,1,no,0,no,no,75
+L007,Summit Care Network,Healthcare,900,North America,Director of Health IT,3,6,yes,2,yes,no,3
+L008,Lakeside Credit Union,BFSI,180,North America,Operations Analyst,0,2,no,0,no,no,45

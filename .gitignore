@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+scored_leads.csv
+.DS_Store
